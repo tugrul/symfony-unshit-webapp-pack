@@ -1,5 +1,5 @@
 {
-    "name": "symfony/webapp-pack",
+    "name": "tugrul/webapp-pack",
     "type": "symfony-pack",
     "license": "MIT",
     "description": "A webapp pack on top of the default skeleton",
